@@ -50,6 +50,7 @@ recipes.removeShapeless(<minecraft:iron_boots>, [<minecraft:iron_ingot>, <ore:in
 
 // ================================================================================
 //#MARKER REMOVE SHAPED
+recipes.removeShaped(<ancientwarfarenpc:iron_lance>, [[null, <ore:ingotIron>, null], [null, <minecraft:iron_ingot>, null], [<ore:ingotIron>, <ore:stickWood>, <ore:ingotIron>]]);
 recipes.removeShaped(<minecraft:diamond_boots>, [[<minecraft:diamond>, <minecraft:diamond>], [<minecraft:diamond>, <minecraft:diamond>]]);
 recipes.removeShaped(<ancientwarfarenpc:diamond_lance>, [[null, <minecraft:diamond>, null], [null, <ore:gemDiamond>, null], [<minecraft:diamond>, <ore:stickWood>, <minecraft:diamond>]]);
 recipes.removeShaped(<ancientwarfarenpc:diamond_spear>, [[<ore:gemDiamond>, <ore:gemDiamond>, null], [<ore:gemDiamond>, <ore:stickWood>, null], [null, null, <ore:stickWood>]]);
