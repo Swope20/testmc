@@ -1,0 +1,22 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "universalbestiary:bestiary": {
+      "viewedEntries": [
+        "universalbestiary:grimoireofgaia_dryad",
+        "universalbestiary:grimoireofgaia_centaur",
+        "universalbestiary:grimoireofgaia_satyress",
+        "universalbestiary:grimoireofgaia_gryphon"
+      ],
+      "bookmarks": [],
+      "history": [
+        "universalbestiary:grimoireofgaia_gryphon",
+        "universalbestiary:grimoireofgaia_satyress",
+        "universalbestiary:grimoireofgaia_centaur",
+        "universalbestiary:grimoireofgaia_dryad"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
