@@ -23,9 +23,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-03-12 18:40:02 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-03-09 19:00:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-03-12 18:40:02 -0600"
     },
     "done": true
   },
@@ -176,6 +188,12 @@
     },
     "done": true
   },
+  "atum:core/journeyintothesands": {
+    "criteria": {
+      "entered_atum": "2021-03-12 18:04:03 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2021-03-09 13:20:03 -0600"
@@ -199,6 +217,20 @@
       "has_gold_ingot": "2021-03-09 19:00:28 -0600"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2021-03-12 17:53:09 -0600"
+    },
+    "done": true
+  },
+  "atum:core/ajourney": {
+    "criteria": {
+      "sand_hills": "2021-03-12 18:04:39 -0600",
+      "limestone_mountains": "2021-03-12 18:04:08 -0600",
+      "sand_plains": "2021-03-12 18:04:47 -0600"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -266,6 +298,19 @@
     },
     "done": true
   },
+  "atum:core/powerwasher": {
+    "criteria": {
+      "sapphire_idol": "2021-03-12 17:49:57 -0600",
+      "sapphire_scepter": "2021-03-12 17:48:05 -0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2021-03-12 18:40:02 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2021-03-09 13:20:52 -0600"
@@ -308,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2021-03-12 17:53:09 -0600"
+    },
+    "done": true
+  },
   "twilightforest:progress_hydra": {
     "criteria": {
       "trophy": "2021-03-09 18:47:43 -0600"
@@ -335,6 +386,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-03-09 18:59:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-03-12 17:53:09 -0600"
     },
     "done": true
   },
@@ -392,11 +449,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-03-12 18:00:18 -0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2021-03-09 14:06:53 -0600",
       "birch_forest": "2021-03-09 14:06:06 -0600",
+      "deep_ocean": "2021-03-12 18:09:26 -0600",
       "beaches": "2021-03-09 14:07:02 -0600",
+      "forest_hills": "2021-03-12 18:09:07 -0600",
       "plains": "2021-03-09 13:19:32 -0600",
       "extreme_hills": "2021-03-09 14:06:08 -0600",
       "river": "2021-03-09 14:06:40 -0600"
@@ -481,6 +546,12 @@
     },
     "done": true
   },
+  "atum:core/justlikenew": {
+    "criteria": {
+      "sapphire_scepter": "2021-03-12 17:48:05 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2021-03-09 15:36:25 -0600"
@@ -535,11 +606,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-03-12 18:40:02 -0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "spider": "2021-03-10 14:55:29 -0600"
+      "skeleton": "2021-03-12 17:48:29 -0600",
+      "spider": "2021-03-10 14:55:29 -0600",
+      "creeper": "2021-03-12 17:48:24 -0600"
     },
     "done": false
+  },
+  "ebwizardry:handbook/magical_creatures": {
+    "criteria": {
+      "ice_giant": "2021-03-12 17:48:36 -0600"
+    },
+    "done": true
   },
   "fossil:fossil/break_fossil": {
     "criteria": {
@@ -562,6 +647,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2021-03-09 19:00:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-03-12 18:40:02 -0600"
     },
     "done": true
   },
@@ -625,6 +716,12 @@
     },
     "done": true
   },
+  "atum:core/root": {
+    "criteria": {
+      "scarab": "2021-03-12 17:54:28 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2021-03-09 13:20:52 -0600"
@@ -634,6 +731,12 @@
   "minecraft:recipes/misc/gold_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2021-03-09 19:00:34 -0600"
+    },
+    "done": true
+  },
+  "atum:core/ruinedit": {
+    "criteria": {
+      "in_ruin": "2021-03-12 18:04:57 -0600"
     },
     "done": true
   },
